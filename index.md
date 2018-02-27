@@ -1,6 +1,6 @@
 ## Bilibili 511 帝国 欢迎您 ！
 
-You can use the [editor on GitHub](https://github.com/hibikilee/bilibili511/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+春暖花开啦！一起出去玩呐~
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
