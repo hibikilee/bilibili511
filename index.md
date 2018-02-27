@@ -1,40 +1,31 @@
 ## Bilibili 511 帝国 欢迎您 ！
 
-春暖花开啦！一起出去玩呐~
+春暖花开啦！一起出去玩呐~（づ￣3￣）づ╭❤～
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+帝国的妃子们，你若安好，撕逼到老ヽ(￣▽￣)ﾉ
 
 ### Ning Ke
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+..(｡•ˇ‸ˇ•｡)…
 
-```markdown
-Syntax highlighted code block
+脾气超好的、pick爱豆有毒的奇葩
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Zhang Ying
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hibikilee/bilibili511/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+永远的巨轮
+(oﾟ▽ﾟ)o  一起出去游山玩水啊~
+
 
 ### Li Xiang
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+为老少年们拼命打call！
+
+为墙头们打call！王博文小白，老铁们微博关注走一波！  殷志源 水晶男孩 哈哈哈 小黄们 应援撞色省了不少钱呢( • ̀ω•́ )✧
+
+羽生结弦 卡酷一！     吉宝~活成偶像剧的帅气男主！
 
 ### Zhang Ting
 
+只知道吃和饿的……审美独特的……
+                            小婊砸 ヾ(✿ﾟ▽ﾟ)ノ
